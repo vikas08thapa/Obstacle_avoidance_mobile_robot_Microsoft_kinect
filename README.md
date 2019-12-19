@@ -6,13 +6,13 @@
 * You can install this driver from the following link
 
 # Step 1 Install Freenect Driver
-https://gist.github.com/MaxConners/8b4630c767aeb4a0b324ea4070c3db9d
+*https://gist.github.com/MaxConners/8b4630c767aeb4a0b324ea4070c3db9d*
 
 * Second step is to install opencv on Raspberry Pi
 
 # Step 2 Install opencv 
 
-https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/
+*https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/*
 
 * Next step is to set the motor pins to GPIO of the Raspberry Pi 
 
